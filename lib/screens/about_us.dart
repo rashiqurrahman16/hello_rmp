@@ -53,7 +53,7 @@ class AboutUsScreen extends StatelessWidget {
                             height: 55,
                             width: 55,
                           ),
-                          Text("Hello RPMP",
+                          Text("Hello RMP",
                               style: TextStyle(
                                 color: Colors.black,
                                 fontSize: 10.2252836227417.sp,
@@ -66,7 +66,7 @@ class AboutUsScreen extends StatelessWidget {
                   SizedBox(
                     width: 15.w,
                   ),
-                  Text("Hello RPMP APP",
+                  Text("Hello RMP APP",
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 31.527957916259766.sp,
@@ -107,7 +107,7 @@ class AboutUsScreen extends StatelessWidget {
               ),
               Text(
                   textAlign: TextAlign.center,
-                  "Copyright 2023 RPMP Metropolitan Police\n All rights reversed.\n Version: 1.0.0",
+                  "Copyright 2023 RMP Metropolitan Police\n All rights reversed.\n Version: 1.0.0",
                   style: TextStyle(
                       fontSize: 13.sp,
                       fontWeight: FontWeight.w400,

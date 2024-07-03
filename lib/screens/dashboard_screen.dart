@@ -264,12 +264,12 @@ class DashboardScreen extends StatelessWidget {
               'ট্রাফিক আপডেট', () {
             Get.toNamed(AppRoutes.onlineNewsPortal,
                 arguments:
-                    "https://www.accuweather.com/en/bd/rangpur/30537/weather-forecast/30537");
+                    "https://www.accuweather.com/en/bd/rajshahi/1-30529_1_al/weather-forecast/1-30529_1_al?city=r%C4%81jsh%C4%81hi");
             // _openDialog(context, controller.weatherData.value);
           }, () {
             Get.toNamed(AppRoutes.onlineNewsPortal,
                 arguments:
-                    "https://www.google.com/maps/place/Rangpur/@25.7411726,89.2283393,13.4z/data=!4m6!3m5!1s0x39e32de6fca6019b:0x9fa496e687f818c8!8m2!3d25.7493938!4d89.2610865!16s%2Fm%2F03bx6b9!5m1!1e1?entry=ttu");
+                    "https://www.google.com/maps/place/Rajshahi/@24.3748422,88.603075,12.5z/data=!4m6!3m5!1s0x39fbefa96a38d031:0x10f93a950ed6f410!8m2!3d24.3746497!4d88.6003665!16zL20vMDR2MDc2!5m1!1e1?entry=ttu");
           }),
           SizedBox(
             height: 12.h,
